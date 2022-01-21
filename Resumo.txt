@@ -7,4 +7,5 @@ ___________________________________________________
 
 * Ao criar o reposirório devemos utilizar o GitBash para clonarmos o endereço do nosso repositório lá no GitHub - git clone + link. Ao clonar, aparecerá dentro da pasta raiz que criamos no Windows a pasta de nosso repositório e nosso arqui README.md.
 
-* par enviarmos todos os arquivos para o meu repositório no GitHub basta digitarmos o comando git add .
+* par enviarmos todos os arquivos para o meu repositório no GitHub basta digitarmos o comando git add . mas...
+ainda falta o comando git commit -m "mensagem desejada", pois devo commitar e em seguida enviar com o comando git push origin main
