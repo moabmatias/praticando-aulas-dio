@@ -1,0 +1,10 @@
+Este arquivo trata de alguns comandos básicos e informações de práticas para enviar meu material remotamente para o GitHub, pois se faz necessário de aprendizado sobre o terminal Git Bash.
+
+Lembrandos que nem tudo podemos fazer pela interface grálfica do GitHub.
+___________________________________________________
+
+* Se quero inserir links úteis no terminal de marcação do GitHub(Edit file), basta digitar entre colchetes o texto e na frente entre parágrafos colar o link desejado.
+
+* Ao criar o reposirório devemos utilizar o GitBash para clonarmos o endereço do nosso repositório lá no GitHub - git clone + link. Ao clonar, aparecerá dentro da pasta raiz que criamos no Windows a pasta de nosso repositório e nosso arqui README.md.
+
+* par enviarmos todos os arquivos para o meu repositório no GitHub basta digitarmos o comando git add .
